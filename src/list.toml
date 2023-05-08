@@ -1,6 +1,15 @@
-name = "Jojo"
+[[books]]
+title = "\"Crash\""
+[[books]]
+title = "\""
+[[books]]
+title = "A Skeptic's Guide to the Future"
+[[books]]
+genre = "Experimental"
+author = "Unknown"
+title = "Untitled"
+[[books]]
+title = "Space Battle Lunchtime"
 
-[[books]]
-title = "Hello"
-[[books]]
-title = "a"
+[[hbooks]]
+title = "Snow Crash"
